@@ -1,0 +1,11 @@
+
+    <h3>Ghost Map</h3>
+    <!--div id="gmap" style="width:500px;height:380px;"></div-->
+    <p-gmap [options]="options" [overlays]="overlays" [style]="{'width':'100%','height':'500px'}" (onOverlayClick)="handleOverlayClick($event, overlaypanel)" ></p-gmap>
+    <div *ngIf="loading">loading...</div>
+    <p-overlayPanel #overlaypanel>
+    stuff
+    </p-overlayPanel>
+
+    <!--pre>{{data | json}}</pre-->
+    

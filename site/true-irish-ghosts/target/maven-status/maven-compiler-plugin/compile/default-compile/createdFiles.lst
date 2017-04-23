@@ -1,0 +1,4 @@
+org\tim\controllers\GhostController.class
+org\tim\model\Position.class
+org\tim\TrueIrishGhostsApplication.class
+org\tim\model\GhostLoc.class

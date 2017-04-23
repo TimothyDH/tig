@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: true-irish-ghosts
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.tim
+Build-Jdk: 1.7.0_45
+Built-By: n0138847
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/true-irish-g
+ hosts/
+
