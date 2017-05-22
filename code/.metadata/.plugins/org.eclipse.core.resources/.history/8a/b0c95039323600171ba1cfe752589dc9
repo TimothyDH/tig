@@ -1,0 +1,19 @@
+package org.tim.controllers;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class GhostControllerTest {
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@Test
+	public void testGetGhostLocation() {
+		fail("Not yet implemented");
+	}
+
+}

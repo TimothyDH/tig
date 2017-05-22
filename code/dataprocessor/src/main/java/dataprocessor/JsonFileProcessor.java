@@ -39,6 +39,7 @@ public class JsonFileProcessor {
 		      GhostLoc ghostloc = mapper.readValue(jp, GhostLoc.class);
 		      System.out.println(ghostloc.getTitle());
 		      // process
+		      // title is "Co. " something convert it back to the way it was in the index
 		      // after binding, stream points to closing END_OBJECT
 		    }
 		    jp.close();

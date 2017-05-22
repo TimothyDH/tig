@@ -1,0 +1,15 @@
+[
+{"id":1,"position":{"lng":-6.3759737,"lat":53.38421},"title":"Blanchardstown"},
+{"id":2,"position":{"lng":-8.498987,"lat":51.696407},"title":"Charles Fort"},
+{"id":3,"position":{"lng":-6.3560987,"lat":53.717857},"title":"Drogheda"},
+{"id":4,"position":{"lng":-7.692054,"lat":53.14237},"title":"Gill Hall"},
+{"id":5,"position":{"lng":-6.2342706,"lat":53.637306},"title":"Gormanstown Castle"},
+{"id":6,"position":{"lng":-5.7,"lat":54.816666},"title":"Island Magee"},
+{"id":7,"position":{"lng":-6.812039,"lat":53.01685},"title":"Rath of Mullaghmast"},
+{"id":8,"position":{"lng":-7.1877575,"lat":53.16121},"title":"Portarlington"},
+{"id":9,"position":{"lng":-6.2836304,"lat":53.298077},"title":"RATHFARNHAM CASTLE"},
+{"id":10,"position":{"lng":-6.26916,"lat":53.318886},"title":"Rathgar"},
+{"id":11,"position":{"lng":-6.2655053,"lat":53.32188},"title":"Rathmines"},
+{"id":12,"position":{"lng":-7.4633102,"lat":54.827385},"title":"STRABANE"},
+{"id":13,"position":{"lng":-8.493812,"lat":52.21585},"title":"WALLSTOWN CASTLE"},
+]

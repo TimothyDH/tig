@@ -11,9 +11,5 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/true-irish-ghosts" type="4"/>
 </workingSet>
 <workingSet editPageId="com.ibm.etools.j2ee.ui.EARWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1483703245403_6" label="EAR Projects" name="EARWorkingSetPage.name"/>
-<workingSet editPageId="com.ibm.etools.j2ee.ui.AppClientWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1483703245604_7" label="Application Client Projects" name="AppClientWorkingSetPage.name"/>
-<workingSet editPageId="com.ibm.etools.j2ee.ui.EjbWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1483703245636_8" label="EJB Projects" name="EjbWorkingSetPage.name"/>
-<workingSet editPageId="com.ibm.etools.j2ee.ui.ConnectorWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1483703245684_9" label="Connector Projects" name="ConnectorWorkingSetPage.name"/>
-<workingSet editPageId="com.ibm.etools.j2ee.ui.WebWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1483703245710_10" label="Web Projects" name="NewWebWorkingSetPage.name"/>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1485789337940_11" label="Window Working Set" name="Aggregate for window 1483703325937"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1495449917142_7" label="Window Working Set" name="Aggregate for window 1483703325937"/>
 </workingSetManager>

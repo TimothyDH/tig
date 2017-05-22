@@ -30,7 +30,7 @@ public class FileProcessor {
 		    String nextPage = convertPageNoToActualPageNo(String.valueOf(pageNumber + 2));
 		    while ((line = reader.readLine()) != null) {
 		    	if(foundStart){
-		    		System.out.println(line);
+		    		//System.out.println(line);
 		    		foundText += line;
 		    		if(line.contains(nextPage)){
 		    			foundStart = false;

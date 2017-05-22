@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import {GMapModule} from 'primeng/primeng';
-import {OverlayPanelModule} from 'primeng/primeng';
+import {DialogModule} from 'primeng/primeng';
 
 import { AppComponent } from './app.component';
 import { MapComponent } from './map/map.component';
@@ -18,7 +18,7 @@ import { MapComponent } from './map/map.component';
     FormsModule,
     HttpModule,
     GMapModule,
-    OverlayPanelModule
+    DialogModule
   ],
   providers: [],
   bootstrap: [AppComponent]

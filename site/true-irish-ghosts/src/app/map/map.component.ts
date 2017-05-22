@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Http, Response, RequestOptions, Headers } from '@angular/http';
 import {GMap} from 'primeng/primeng';
-import {OverlayPanel} from 'primeng/primeng';
+import {Dialog} from 'primeng/primeng';
 import MapData from './map.data';
 declare var google: any;
 
@@ -15,6 +15,7 @@ export class MapComponent implements OnInit {
   //map: any;
   data: Object;
   loading: boolean;
+  displayDialog: boolean;
   mapMarkers: MapData[];
 
  options: any;
@@ -27,7 +28,7 @@ export class MapComponent implements OnInit {
   ngOnInit() {
         this.options = {
             center: {lat: 53.587922, lng: -7.905928},
-            zoom: 7,
+            zoom: 8,
              mapTypeId: google.maps.MapTypeId.ROADMAP
         };
    
@@ -43,15 +44,17 @@ export class MapComponent implements OnInit {
 
 
   getGhosts() {
+    console.log("getting ghosts" + JSON.stringify(this.overlays));
     this.loading = true;
-    //this.http.request('/ghosts')
-    this.http.request('../../main/resources/ghosts.json')
+    this.http.request('/ghosts')
+    //this.http.request('../../main/resources/ghosts.json')
       .subscribe((res: Response) => {
         this.mapMarkers = res.json() as MapData[];
         console.log(this.mapMarkers.length);
         this.loadMapMarkers();
         //this.overlays = res.json() as MapData[];
         this.loading = false;
+        console.log("got ghosts" + JSON.stringify(this.overlays));
       });
   }
 
@@ -68,13 +71,13 @@ export class MapComponent implements OnInit {
     }
   }
 
-  handleOverlayClick(event, overlaypanel: OverlayPanel) {
+  handleOverlayClick(event) {
         //event.originalEvent: MouseEvent of Google Maps api
         //event.overlay: Clicked overlay     
         //event.map: Map instance  
         var marker = event.overlay; 
-        console.log("Overlay Clicked" + marker.title);
-        overlaypanel.show(event);
+        console.log("Overlay Clicked " + marker.title);
+        this.displayDialog=true;
   }
 
 }

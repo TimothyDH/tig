@@ -1,1 +1,2 @@
 NOTES- Dublin should be its own section
+file titles are created by [TITLE] + [LAT] + {LONG]
