@@ -30,7 +30,9 @@ public class GhostController {
 
 	//TODO read from resources
 	//private static String fileName = "D:/workspaces/tigs/code/dataprocessor/src/main/resources/ghosts.json";
-	private static String fileName = "src/main/resources/ghostsnew.json";
+	private static String ided_ghosts_fileName = "src/main/resources/ided_ghosts.json";
+	private static String unided_ghosts_fileName = "src/main/resources/unided_ghosts.json";
+	private static String dublin_ghosts_fileName = "src/main/resources/dublin_ghosts.json";
 	//private static String dataFodler = "D:/workspaces/tigs/site/true-irish-ghosts/src/main/resources/data/";
 	private static String dataFodler = "src/main/resources/data/";
 
@@ -39,8 +41,23 @@ public class GhostController {
 	@RequestMapping(value = "/ghosts", method=RequestMethod.GET)
     public List<GhostLoc> getGhosts() {
         //return new GhostLoc("Ardtrea", new Position(54.628017,-6.681921));
-		return readGhostFile();
+		return readGhostFile(ided_ghosts_fileName);
     }
+	
+	@CrossOrigin
+	@RequestMapping(value = "/unided_ghosts", method=RequestMethod.GET)
+    public List<GhostLoc> getCountyGhosts() {
+        //return new GhostLoc("Ardtrea", new Position(54.628017,-6.681921));
+		return readGhostFile(unided_ghosts_fileName);
+    }
+	
+	@CrossOrigin
+	@RequestMapping(value = "/dublinghosts", method=RequestMethod.GET)
+    public List<GhostLoc> getDublinGhosts() {
+        //return new GhostLoc("Ardtrea", new Position(54.628017,-6.681921));
+		return readGhostFile(dublin_ghosts_fileName);
+    }
+
 	
 	@CrossOrigin
 	@RequestMapping(value = "/ghostlocation/{ghostfileId}", method=RequestMethod.GET)
@@ -62,10 +79,10 @@ public class GhostController {
 	}
 	
 	
-	private List<GhostLoc> readGhostFile(){
+	private List<GhostLoc> readGhostFile(String filename){
 		List<GhostLoc> listOfGhosts = new ArrayList<GhostLoc>();
 		
-		Path file = Paths.get(fileName);
+		Path file = Paths.get(filename);
 		try (InputStream in = Files.newInputStream(file);
 		    BufferedReader reader =
 		      new BufferedReader(new InputStreamReader(in))) {

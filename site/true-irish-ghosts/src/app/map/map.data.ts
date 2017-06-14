@@ -1,5 +1,6 @@
+import LatLng from './latlng';
 
-export default class MapData {
+export class MapData {
   id: number;
   title: string;
   position: LatLng;
@@ -10,15 +11,4 @@ export default class MapData {
     this.title = atitle;    
     this.position = aPos;
   }
-}
-
-export class LatLng {
-  lat: number;
-  lng: number;
-
-  constructor(alat: number, alng: number) {
-    this.lat = alat;
-    this.lng = alng;
-  }
-
 }

@@ -67,8 +67,8 @@ public class BuildDataFiles {
 		      // process
 		      // title is "Co. " something convert it back to the way it was in the index
 		      String outputFileTitle = ghostloc.getTitle(); 
-		      outputFileTitle += Double.toString(ghostloc.getPosition().getLat());
-		      outputFileTitle += Double.toString(ghostloc.getPosition().getLng());
+		      //outputFileTitle += Double.toString(ghostloc.getPosition().getLat());
+		      //outputFileTitle += Double.toString(ghostloc.getPosition().getLng());
 		      outputFileTitle += ".json";
 		      System.out.println(outputFileTitle);
 		      final String placeToFind = ghostloc.getTitle();

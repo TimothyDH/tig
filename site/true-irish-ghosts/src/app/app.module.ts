@@ -4,9 +4,15 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import {GMapModule} from 'primeng/primeng';
 import {DialogModule} from 'primeng/primeng';
+import {SelectButtonModule} from 'primeng/primeng';
+import {ButtonModule} from 'primeng/primeng';
 
 import { AppComponent } from './app.component';
 import { MapComponent } from './map/map.component';
+
+import {StoreModule} from '@ngrx/store';
+import {ghostlocationsReducer} from './statemanagement/reducers/ghostlocations.reducer';
+
 
 @NgModule({
   declarations: [
@@ -18,7 +24,10 @@ import { MapComponent } from './map/map.component';
     FormsModule,
     HttpModule,
     GMapModule,
-    DialogModule
+    DialogModule,
+    SelectButtonModule,
+    ButtonModule,
+    StoreModule.provideStore({ ghostlocations: ghostlocationsReducer })
   ],
   providers: [],
   bootstrap: [AppComponent]

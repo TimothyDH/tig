@@ -1892,3 +1892,506 @@ java.lang.NullPointerException: null
 2017-05-22 11:45:35,365 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 36 resources
 2017-05-22 11:45:35,475 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-05-22 11:45:35,490 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-22 14:04:45,462 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-22 14:04:45,470 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-22 14:04:45,474 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-22 14:04:45,627 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-22 14:04:45,627 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-22 14:15:31,510 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-22 14:15:31,511 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-22 14:15:31,515 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-22 14:15:31,637 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-22 14:15:31,637 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-22 14:18:17,199 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-22 14:18:17,200 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-22 14:18:17,203 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-22 14:18:17,607 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-22 14:18:17,607 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-22 14:58:31,379 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-22 14:58:31,380 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-22 14:58:31,383 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-22 14:58:31,859 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-22 14:58:31,859 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-24 11:58:51,815 [Worker-855] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 11:58:51,816 [Worker-855] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-24 11:58:51,818 [Worker-855] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-24 11:58:52,329 [Worker-855] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 11:58:52,329 [Worker-855] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-24 12:10:07,804 [Worker-856] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 12:10:07,805 [Worker-856] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-24 12:10:07,808 [Worker-856] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-24 12:10:08,352 [Worker-856] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 12:10:08,352 [Worker-856] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-24 12:46:03,941 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 12:46:03,941 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-24 12:46:04,004 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 36 resources
+2017-05-24 12:46:04,577 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 12:46:04,577 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-24 12:50:40,617 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 12:50:40,633 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-24 12:50:40,633 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-24 12:50:41,341 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 12:50:41,341 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-24 13:28:23,311 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 13:28:23,311 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-24 13:28:23,326 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-24 13:28:23,894 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 13:28:23,894 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-24 13:31:37,639 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 13:31:37,640 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-24 13:31:37,645 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-24 13:31:38,138 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 13:31:38,138 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-24 13:42:53,094 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 13:42:53,095 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-24 13:42:53,098 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-24 13:42:53,628 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 13:42:53,629 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-24 13:59:13,751 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 13:59:13,751 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-24 13:59:13,751 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-24 13:59:14,419 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 13:59:14,419 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-24 14:28:28,474 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 14:28:28,475 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-24 14:28:28,505 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-24 14:28:29,181 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-24 14:28:29,182 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 11:12:08,555 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-25 11:12:08,561 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 33 resources
+2017-05-25 11:12:08,612 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-25 11:12:08,656 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 11:12:25,251 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-25 11:12:25,256 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 11:12:25,259 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-25 11:12:25,260 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 11:14:40,664 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:14:40,665 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 11:14:40,667 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2017-05-25 11:14:40,717 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:14:40,717 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 11:14:48,460 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:14:48,461 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 11:14:48,462 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 11:14:48,469 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:14:48,470 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 11:18:32,300 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:18:32,308 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-25 11:18:32,315 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 56 resources
+2017-05-25 11:18:32,332 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:18:32,332 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 11:34:32,089 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:34:32,090 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 11:34:32,095 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-25 11:34:32,697 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:34:32,698 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 11:43:50,765 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:43:50,780 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-25 11:43:50,846 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 56 resources
+2017-05-25 11:43:51,341 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:43:51,341 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 11:55:52,727 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:55:52,734 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 11:55:52,739 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-25 11:55:53,310 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 11:55:53,310 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 13:43:22,630 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 13:43:22,631 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 13:43:22,632 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 13:43:22,663 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 13:43:22,663 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 13:56:29,427 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 13:56:29,428 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 13:56:29,484 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-25 13:56:30,068 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 13:56:30,068 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 14:02:55,444 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:02:55,445 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 14:02:55,449 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-25 14:02:55,582 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:02:55,583 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 14:27:12,330 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:27:12,346 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-25 14:27:12,346 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2017-05-25 14:27:12,921 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:27:12,921 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 14:27:58,577 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:27:58,583 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-25 14:27:58,591 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2017-05-25 14:27:58,608 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:27:58,609 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 14:29:40,198 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:29:40,203 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-25 14:29:40,212 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2017-05-25 14:29:40,235 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:29:40,235 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 14:50:29,433 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:50:29,433 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 14:50:29,437 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 30 resources
+2017-05-25 14:50:30,058 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 14:50:30,058 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 15:19:30,742 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 15:19:30,742 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-25 15:19:30,742 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2017-05-25 15:19:31,637 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 15:19:31,637 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 15:29:56,211 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 15:29:56,227 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-25 15:29:56,289 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2017-05-25 15:29:56,806 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 15:29:56,806 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-25 15:33:12,261 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 15:33:12,281 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-25 15:33:12,359 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2017-05-25 15:33:12,374 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 15:33:12,374 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-26 15:46:06,736 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-26 15:46:06,740 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-26 15:46:06,741 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-26 15:46:06,750 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-26 15:46:06,750 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-26 15:46:14,508 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-26 15:46:14,509 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-26 15:46:14,510 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-26 15:46:14,516 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-26 15:46:14,517 [Worker-301] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:32:31,906 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:32:31,912 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:32:31,921 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2017-05-30 11:32:31,948 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:32:31,949 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:32:41,455 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:32:41,456 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:32:41,461 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 29 resources
+2017-05-30 11:32:42,067 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:32:42,067 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:33:20,333 [Worker-1460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:33:20,341 [Worker-1460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:33:20,357 [Worker-1460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 60 resources
+2017-05-30 11:33:20,386 [Worker-1460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:33:20,386 [Worker-1460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:34:08,807 [Worker-1463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:34:08,807 [Worker-1463] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:34:08,807 [Worker-1463] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:34:08,811 [Worker-1463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:34:08,811 [Worker-1463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:41:28,889 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:41:28,890 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:41:28,891 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:41:28,897 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:41:28,897 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:41:52,785 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:41:52,786 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:41:52,786 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:41:52,792 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:41:52,792 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:42:15,306 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:42:15,306 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:42:15,306 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:42:15,309 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:42:15,309 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:46:23,822 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:46:23,823 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:46:23,823 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:46:23,833 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:46:23,833 [Worker-1464] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:49:03,461 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:49:03,462 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:49:03,462 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:49:03,470 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:49:03,470 [Worker-1465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:52:23,078 [Worker-1466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:52:23,080 [Worker-1466] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:52:23,080 [Worker-1466] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:52:23,086 [Worker-1466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:52:23,086 [Worker-1466] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:53:13,168 [Worker-1471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:53:13,169 [Worker-1471] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:53:13,170 [Worker-1471] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:53:13,176 [Worker-1471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:53:13,176 [Worker-1471] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:53:43,807 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:53:43,807 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:53:43,808 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:53:43,814 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:53:43,814 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:53:55,184 [Worker-1472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:53:55,185 [Worker-1472] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:53:55,185 [Worker-1472] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:53:55,191 [Worker-1472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:53:55,192 [Worker-1472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:57:03,357 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:57:03,358 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:57:03,358 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:57:03,364 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:57:03,365 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:57:19,628 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:57:19,628 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:57:19,649 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:57:19,657 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:57:19,657 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 11:59:55,329 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:59:55,330 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 11:59:55,330 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 11:59:55,338 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 11:59:55,338 [Worker-1470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 12:02:06,750 [Worker-1477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 12:02:06,751 [Worker-1477] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 12:02:06,751 [Worker-1477] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 12:02:06,757 [Worker-1477] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 12:02:06,757 [Worker-1477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:17:40,233 [Worker-1512] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:17:40,234 [Worker-1512] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 14:17:40,234 [Worker-1512] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:17:40,242 [Worker-1512] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:17:40,242 [Worker-1512] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:18:28,084 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:18:28,084 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:18:28,084 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-05-30 14:18:28,115 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:18:28,115 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:20:37,268 [Worker-1505] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:20:37,268 [Worker-1505] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 14:20:37,268 [Worker-1505] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:20:37,284 [Worker-1505] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:20:37,284 [Worker-1505] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:21:18,098 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:21:18,099 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 14:21:18,099 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:21:18,105 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:21:18,105 [Worker-1513] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:24:12,185 [Worker-1459] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:24:12,186 [Worker-1459] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 14:24:12,186 [Worker-1459] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:24:12,191 [Worker-1459] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:24:12,191 [Worker-1459] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:26:04,037 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:26:04,037 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 14:26:04,037 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:26:04,052 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:26:04,052 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:29:02,540 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:29:02,540 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 14:29:02,541 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:29:02,547 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:29:02,547 [Worker-1516] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:30:30,937 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:30:30,937 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 14:30:30,937 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:30:30,937 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:30:30,937 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:33:47,659 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:33:47,659 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 14:33:47,660 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:33:47,666 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:33:47,666 [Worker-1518] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 14:41:45,714 [Worker-1515] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:41:45,714 [Worker-1515] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 14:41:45,715 [Worker-1515] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 14:41:45,723 [Worker-1515] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 14:41:45,723 [Worker-1515] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:03:38,647 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:03:38,647 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:03:38,647 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:03:38,663 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:03:38,663 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:03:44,963 [Worker-1527] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:03:44,963 [Worker-1527] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:03:44,963 [Worker-1527] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:03:44,968 [Worker-1527] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:03:44,969 [Worker-1527] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:35:09,287 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:35:09,288 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:35:09,289 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:35:09,294 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:35:09,294 [Worker-1525] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:37:27,003 [Worker-1531] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:37:27,004 [Worker-1531] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:37:27,004 [Worker-1531] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:37:27,009 [Worker-1531] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:37:27,010 [Worker-1531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:40:31,992 [Worker-1534] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:40:31,992 [Worker-1534] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:40:31,992 [Worker-1534] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:40:31,992 [Worker-1534] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:40:31,992 [Worker-1534] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:49:48,916 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:49:48,916 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:49:48,917 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:49:48,921 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:49:48,921 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:52:49,100 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:52:49,100 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:52:49,101 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:52:49,106 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:52:49,106 [Worker-1538] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:53:13,037 [Worker-1539] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:53:13,037 [Worker-1539] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:53:13,037 [Worker-1539] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:53:13,041 [Worker-1539] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:53:13,041 [Worker-1539] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:55:45,445 [Worker-1537] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:55:45,446 [Worker-1537] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:55:45,446 [Worker-1537] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:55:45,452 [Worker-1537] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:55:45,452 [Worker-1537] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 15:57:49,845 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:57:49,847 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 15:57:49,849 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 15:57:49,866 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 15:57:49,867 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:02:34,907 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:02:34,907 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:02:34,907 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-05-30 16:02:34,907 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:02:34,907 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:04:03,306 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:04:03,306 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:04:03,306 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:04:03,321 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:04:03,321 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:07:07,462 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:07:07,462 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:07:07,462 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:07:07,478 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:07:07,478 [Worker-1542] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:11:19,744 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:11:19,745 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:11:19,746 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:11:19,753 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:11:19,753 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:12:10,475 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:12:10,476 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:12:10,476 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:12:10,488 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:12:10,488 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:14:21,219 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:14:21,220 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:14:21,222 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:14:21,227 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:14:21,227 [Worker-1548] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:17:08,996 [Worker-1556] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:17:08,996 [Worker-1556] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:17:08,997 [Worker-1556] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:17:09,004 [Worker-1556] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:17:09,004 [Worker-1556] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:17:35,504 [Worker-1558] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:17:35,505 [Worker-1558] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:17:35,506 [Worker-1558] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:17:35,513 [Worker-1558] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:17:35,514 [Worker-1558] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:17:56,727 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:17:56,727 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:17:56,728 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:17:56,733 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:17:56,733 [Worker-1552] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:19:23,444 [Worker-1557] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:19:23,445 [Worker-1557] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:19:23,445 [Worker-1557] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:19:23,450 [Worker-1557] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:19:23,450 [Worker-1557] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:24:30,989 [Worker-1563] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:24:30,990 [Worker-1563] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:24:30,991 [Worker-1563] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:24:30,996 [Worker-1563] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:24:30,997 [Worker-1563] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:25:10,269 [Worker-1564] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:25:10,269 [Worker-1564] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:25:10,269 [Worker-1564] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:25:10,285 [Worker-1564] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:25:10,285 [Worker-1564] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:27:36,942 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:27:36,957 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:27:36,957 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:27:36,957 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:27:36,957 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-30 16:28:10,854 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:28:10,854 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-30 16:28:10,855 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-30 16:28:10,861 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-30 16:28:10,861 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 11:52:25,823 [Worker-1752] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 11:52:25,823 [Worker-1752] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 11:52:25,823 [Worker-1752] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 11:52:25,823 [Worker-1752] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 11:52:25,823 [Worker-1752] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 12:02:13,436 [Worker-1755] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:02:13,437 [Worker-1755] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 12:02:13,437 [Worker-1755] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 12:02:13,444 [Worker-1755] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:02:13,444 [Worker-1755] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 12:02:53,968 [Worker-1758] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:02:53,969 [Worker-1758] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 12:02:53,969 [Worker-1758] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 12:02:53,975 [Worker-1758] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:02:53,975 [Worker-1758] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 12:03:21,815 [Worker-1756] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:03:21,816 [Worker-1756] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 12:03:21,816 [Worker-1756] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 12:03:21,822 [Worker-1756] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:03:21,822 [Worker-1756] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 12:04:42,438 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:04:42,439 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 12:04:42,439 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 12:04:42,444 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:04:42,445 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 12:07:56,017 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:07:56,018 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 12:07:56,019 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 12:07:56,025 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 12:07:56,025 [Worker-1753] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:11:46,403 [Worker-1772] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:11:46,403 [Worker-1772] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:11:46,403 [Worker-1772] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 13:11:46,418 [Worker-1772] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:11:46,418 [Worker-1772] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:12:28,475 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:12:28,476 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:12:28,476 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-05-31 13:12:28,491 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:12:28,491 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:13:52,679 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:13:52,680 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:13:52,680 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 13:13:52,684 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:13:52,684 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:15:52,894 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:15:52,895 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:15:52,896 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-05-31 13:15:52,911 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:15:52,911 [Worker-1774] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:19:31,876 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:19:31,876 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:19:31,876 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 13:19:31,892 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:19:31,892 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:22:53,668 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:22:53,668 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:22:53,668 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 13:22:53,684 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:22:53,684 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:24:39,774 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:24:39,775 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:24:39,775 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 13:24:39,821 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:24:39,822 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:32:42,875 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:32:42,875 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:32:42,875 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 13:32:42,875 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:32:42,875 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:33:38,272 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:33:38,273 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:33:38,273 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 13:33:38,278 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:33:38,279 [Worker-1767] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:34:59,016 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:34:59,016 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:34:59,017 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 13:34:59,022 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:34:59,023 [Worker-1778] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources
+2017-05-31 13:35:13,462 [Worker-1780] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:35:13,462 [Worker-1780] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-31 13:35:13,462 [Worker-1780] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-31 13:35:13,477 [Worker-1780] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-31 13:35:13,477 [Worker-1780] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspaces\tigs\site\true-irish-ghosts\src\test\resources

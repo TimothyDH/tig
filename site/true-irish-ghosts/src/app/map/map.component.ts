@@ -2,8 +2,24 @@ import { Component, OnInit } from '@angular/core';
 import { Http, Response, RequestOptions, Headers } from '@angular/http';
 import {GMap} from 'primeng/primeng';
 import {Dialog} from 'primeng/primeng';
-import MapData from './map.data';
+import {Button, SelectButton, SelectItem} from 'primeng/primeng';
+//import {SelectItem} from 'primeng/primeng';
+import {Observable} from 'rxjs';
+import {MapData} from './map.data';
+import {LatLng} from './latlng';
+import {StoryDetail} from './story.detail';
+import { Store } from '@ngrx/store';
+import {
+  ADD_LOCATION
+} from '../statemanagement/actions/actions'
+
+interface AppState {
+  mapData: MapData[];
+};
+
+
 declare var google: any;
+
 
 @Component({
   selector: 'app-map',
@@ -15,20 +31,32 @@ export class MapComponent implements OnInit {
   //map: any;
   data: Object;
   loading: boolean;
-  displayDialog: boolean;
+  displaystorydetails: boolean;
   mapMarkers: MapData[];
+  storydetail: StoryDetail;
+  headerText: String;
+  ghostStory: String;
+  currentview: String = "Identified Locations";
+  locationTypes: SelectItem[];
 
  options: any;
     
  overlays: any[];
- 
+  counter: Observable<MapData[]>;
+
     
-  constructor(public http: Http) { }
+  constructor(public http: Http, private store: Store<AppState>) { 
+    this.locationTypes = [];
+    this.locationTypes.push({label:'Identified Locations', value:'Identified Locations'});
+    this.locationTypes.push({label:'Dublin', value:'Dublin'});
+    this.locationTypes.push({label:'Unidentified Locations', value:'Unidentified Locations'});
+    this.displaystorydetails = false;
+  }
 
   ngOnInit() {
         this.options = {
             center: {lat: 53.587922, lng: -7.905928},
-            zoom: 8,
+            zoom: 6,
              mapTypeId: google.maps.MapTypeId.ROADMAP
         };
    
@@ -44,9 +72,23 @@ export class MapComponent implements OnInit {
 
 
   getGhosts() {
-    console.log("getting ghosts" + JSON.stringify(this.overlays));
+    var url: string;
+    if(this.currentview==="Identified Locations"){
+      //url = '/ghosts';
+      url = '/data/ided_ghosts.json';
+    }
+    else if(this.currentview==="Unidentified Locations"){
+      //url = '/unided_ghosts';
+      url = '/data/unided_ghosts.json';
+    }
+     else if(this.currentview==="Dublin"){
+      //url = '/dublinghosts';
+      url = '/data/dublin_ghosts.json';
+      this.zoomOnDublin();
+    }
+    console.log("getting ghosts:" + this.currentview);
     this.loading = true;
-    this.http.request('/ghosts')
+    this.http.request(url)
     //this.http.request('../../main/resources/ghosts.json')
       .subscribe((res: Response) => {
         this.mapMarkers = res.json() as MapData[];
@@ -68,6 +110,7 @@ export class MapComponent implements OnInit {
         title: this.mapMarkers[i].title
       });
       this.overlays.push(marker);
+      this.store.dispatch({type: ADD_LOCATION, payload: this.mapMarkers[i]});
     }
   }
 
@@ -76,8 +119,36 @@ export class MapComponent implements OnInit {
         //event.overlay: Clicked overlay     
         //event.map: Map instance  
         var marker = event.overlay; 
-        console.log("Overlay Clicked " + marker.title);
-        this.displayDialog=true;
+        //console.log("Overlay Clicked " + marker.title);
+        this.headerText = marker.title;
+        this.getGhostDetails(marker.title);
   }
+
+   getGhostDetails(locationtitle :String) {
+    console.log("getting ghost details:" + locationtitle);
+    this.displaystorydetails = false;
+    //this.http.request('/ghostlocation/' + locationtitle)
+    this.http.request('/data/data/' + locationtitle + '.json')
+      .subscribe((res: Response) => {
+        this.storydetail = res.json() as StoryDetail;
+        this.ghostStory = this.storydetail.references[0].text;
+        //console.log(JSON.stringify(marker));
+        this.displaystorydetails=true;
+      });
+  }
+
+  public changeView(obj:any){
+    //console.log(obj.value);
+    this.displaystorydetails = false;
+    this.overlays = [];
+    this.getGhosts();
+ }
+
+ zoomOnDublin(){
+   this.options.center.lat = 53.348573;
+   this.options.center.lng = -6.256490;
+ }
+
+
 
 }

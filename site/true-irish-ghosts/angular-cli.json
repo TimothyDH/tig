@@ -19,8 +19,9 @@
       "mobile": false,
       "styles": [
         "styles.css",
+        "./app/vendor/bootstrap-3.3.7-dist/css/bootstrap.min.css",
         "../node_modules/primeng/resources/primeng.min.css",
-        "../node_modules/primeng/resources/themes/cruze/theme.css",
+        "../node_modules/primeng/resources/themes/darkness/theme.css",
         "../node_modules/font-awesome/css/font-awesome.min.css"
       ],
       "scripts": [],
