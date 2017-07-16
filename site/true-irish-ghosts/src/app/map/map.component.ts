@@ -35,7 +35,7 @@ export class MapComponent implements OnInit {
   mapMarkers: MapData[];
   storydetail: StoryDetail;
   headerText: String;
-  ghostStory: String;
+  ghostStory: String[];
   currentview: String = "Identified Locations";
   locationTypes: SelectItem[];
 
@@ -84,7 +84,6 @@ export class MapComponent implements OnInit {
      else if(this.currentview==="Dublin"){
       //url = '/dublinghosts';
       url = '/data/dublin_ghosts.json';
-      this.zoomOnDublin();
     }
     console.log("getting ghosts:" + this.currentview);
     this.loading = true;
@@ -92,11 +91,11 @@ export class MapComponent implements OnInit {
     //this.http.request('../../main/resources/ghosts.json')
       .subscribe((res: Response) => {
         this.mapMarkers = res.json() as MapData[];
-        console.log(this.mapMarkers.length);
+        //console.log(this.mapMarkers.length);
         this.loadMapMarkers();
         //this.overlays = res.json() as MapData[];
         this.loading = false;
-        console.log("got ghosts" + JSON.stringify(this.overlays));
+        //console.log("got ghosts" + JSON.stringify(this.overlays));
       });
   }
 
@@ -131,22 +130,38 @@ export class MapComponent implements OnInit {
     this.http.request('/data/data/' + locationtitle + '.json')
       .subscribe((res: Response) => {
         this.storydetail = res.json() as StoryDetail;
-        this.ghostStory = this.storydetail.references[0].text;
+        //this.ghostStory = this.storydetail.references[0].text;
+        //this.ghostStory = this.storydetail.references;//"";
+        this.ghostStory = new Array();
+        for (let story of this.storydetail.references) {
+            this.ghostStory.push(story.text);// += "<H2>Story</H2>\n";
+        //    this.ghostStory += story.text;
+        //    this.ghostStory += "<BR>";
+        }
         //console.log(JSON.stringify(marker));
         this.displaystorydetails=true;
       });
   }
 
-  public changeView(obj:any){
+  public changeView(obj:any, map:any){
     //console.log(obj.value);
     this.displaystorydetails = false;
     this.overlays = [];
     this.getGhosts();
+    if(this.currentview==="Dublin"){
+      map.setZoom(10);
+      map.setCenter({lat: 53.34857, lng: -6.2564908});
+    }
+    else{
+      map.setZoom(6);
+      map.setCenter({lat: 53.587922, lng: -7.905928});
+    }
  }
 
  zoomOnDublin(){
-   this.options.center.lat = 53.348573;
-   this.options.center.lng = -6.256490;
+//   this.options.center.lat = 53.348573;
+//   this.options.center.lng = -6.256490;
+ // console.log("setting Options");
  }
 
 

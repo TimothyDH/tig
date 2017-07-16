@@ -1,5 +1,7 @@
 /*@import './app/vendor/semantic.min.css';*/
-
+body { 
+    padding-top: 65px; 
+}
 /*.ui.menu .item img.logo {
     margin-right: 1.5em;
 }

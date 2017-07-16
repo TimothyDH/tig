@@ -1,17 +1,18 @@
 
-<div>
-   In the early Twentieth Century Ireland, St. John D Seymour embarked on a remarkable experiment in crowd sourcing, designed to gather a collection of verified "True" Irish ghost stories.
-   <BR>The goal of this site is to try to find out more about those stories, and if possible, update them for the Twenty First Centuey. Please tell us if you can add anything. 
-   <BR>Do these ghosts still haunt these places or have they disappeared? Perhaps they've been replaced by more modern phantoms?
-  </div>
     <h2>Ghost Map - {{currentview}}</h2>
-    <p-selectButton [options]="locationTypes" [(ngModel)]="currentview" (onChange)="changeView($event)"></p-selectButton>
+    <div>
+     The markers on the map show places where ghosts where reported. Some locations are indentified, some just recorded as, e.g. "somewhere in County Leitrim". The buttons toggle the views for that.
+     Clicking on a marker will present the ghost story recorded for that marker below the map</div>
+    <p-selectButton [options]="locationTypes" [(ngModel)]="currentview" (onChange)="changeView($event, gmap.getMap())"></p-selectButton>
     <!--div id="gmap" style="width:500px;height:380px;"></div-->
-    <p-gmap [options]="options" [overlays]="overlays" [style]="{'width':'100%','height':'500px'}" (onOverlayClick)="handleOverlayClick($event)" ></p-gmap>
+    <p-gmap #gmap [options]="options" [overlays]="overlays" [style]="{'width':'100%','height':'300px'}" (onOverlayClick)="handleOverlayClick($event)" ></p-gmap>
     <div *ngIf="loading">loading...</div>
     <div *ngIf="displaystorydetails">
         <h2>{{headerText}}</h2>
-         {{ghostStory}}
+         <li *ngFor="let story of ghostStory">
+            {{story}}
+         </li>
+         <!--{{ghostStory}}-->
         <h3>Do you know something about this ghost story?<button pButton type="button" class="ui-button-danger" label="Tell Us"></button></h3>
     </div>
     

@@ -1,4 +1,4 @@
-import LatLng from './latlng';
+import {LatLng} from './latlng';
 
 export class MapData {
   id: number;

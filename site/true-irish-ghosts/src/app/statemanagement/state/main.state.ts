@@ -1,4 +1,4 @@
-import MapData from '../../map/map.data';
+import {MapData} from '../../map/map.data';
 
 export interface State {
   mapData: MapData[];
