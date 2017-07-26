@@ -15,6 +15,7 @@ import {StoreModule} from '@ngrx/store';
 import {ghostlocationsReducer} from './statemanagement/reducers/ghostlocations.reducer';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
